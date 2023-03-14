@@ -1,0 +1,9 @@
+@article{REPO-061,
+    author = "Liu, Yuanchao and Liu, Jianchang and Jin, Yaochu",
+    journal = "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+    number = "7",
+    pages = "4671-4684",
+    title = "{Surrogate-assisted Multipopulation Particle Swarm Optimizer for High-dimensional Expensive Optimization}",
+    volume = "52",
+    year = "2022"
+}
